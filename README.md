@@ -20,10 +20,6 @@
 </p>
 
 <p align="center">
-  <sub>The APK will be available here once an official release is published.</sub>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform: Android">
   <img src="https://img.shields.io/badge/Auth-GitHub%20OAuth%20Device%20Flow-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub OAuth Device Flow">
 </p>
@@ -75,7 +71,7 @@ It is built for developers, students, and hobbyists who work from a phone and wa
 
 ## Getting Started
 
-1. Get the APK from the [official release page](https://github.com/gitsyncmanager/GitSync-Manager/releases/latest) once it is published.
+1. Get the APK from the [official release page](https://github.com/gitsyncmanager/GitSync-Manager/releases/latest) 
 2. Open GitSync Manager and connect your GitHub account.
 3. On the Home screen, tap **Select Project**.
 4. Choose a project folder with **Browse folders**, or pick a single file with **Select a file**.
